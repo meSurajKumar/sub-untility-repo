@@ -1,0 +1,2053 @@
+[
+  {
+    "id": 1,
+    "brand": "BMW",
+    "model": "Model_159",
+    "year": 2001,
+    "electric": true
+  },
+  {
+    "id": 2,
+    "brand": "Audi",
+    "model": "Model_384",
+    "year": 2018,
+    "electric": false
+  },
+  {
+    "id": 3,
+    "brand": "Tesla",
+    "model": "Model_228",
+    "year": 2006,
+    "electric": false
+  },
+  {
+    "id": 4,
+    "brand": "Tata",
+    "model": "Model_213",
+    "year": 2009,
+    "electric": false
+  },
+  {
+    "id": 5,
+    "brand": "Audi",
+    "model": "Model_127",
+    "year": 2020,
+    "electric": true
+  },
+  {
+    "id": 6,
+    "brand": "Tata",
+    "model": "Model_505",
+    "year": 2011,
+    "electric": false
+  },
+  {
+    "id": 7,
+    "brand": "Audi",
+    "model": "Model_650",
+    "year": 2005,
+    "electric": true
+  },
+  {
+    "id": 8,
+    "brand": "Toyota",
+    "model": "Model_650",
+    "year": 2014,
+    "electric": true
+  },
+  {
+    "id": 9,
+    "brand": "Audi",
+    "model": "Model_275",
+    "year": 2014,
+    "electric": true
+  },
+  {
+    "id": 10,
+    "brand": "Tesla",
+    "model": "Model_429",
+    "year": 2005,
+    "electric": false
+  },
+  {
+    "id": 11,
+    "brand": "Toyota",
+    "model": "Model_733",
+    "year": 2009,
+    "electric": false
+  },
+  {
+    "id": 12,
+    "brand": "Toyota",
+    "model": "Model_962",
+    "year": 2022,
+    "electric": false
+  },
+  {
+    "id": 13,
+    "brand": "Tesla",
+    "model": "Model_760",
+    "year": 2001,
+    "electric": false
+  },
+  {
+    "id": 14,
+    "brand": "Toyota",
+    "model": "Model_312",
+    "year": 2006,
+    "electric": false
+  },
+  {
+    "id": 15,
+    "brand": "Audi",
+    "model": "Model_441",
+    "year": 2022,
+    "electric": true
+  },
+  {
+    "id": 16,
+    "brand": "Audi",
+    "model": "Model_160",
+    "year": 2020,
+    "electric": false
+  },
+  {
+    "id": 17,
+    "brand": "Tata",
+    "model": "Model_809",
+    "year": 2016,
+    "electric": true
+  },
+  {
+    "id": 18,
+    "brand": "Tata",
+    "model": "Model_441",
+    "year": 2023,
+    "electric": false
+  },
+  {
+    "id": 19,
+    "brand": "Tesla",
+    "model": "Model_627",
+    "year": 2017,
+    "electric": false
+  },
+  {
+    "id": 20,
+    "brand": "Audi",
+    "model": "Model_758",
+    "year": 2012,
+    "electric": false
+  },
+  {
+    "id": 21,
+    "brand": "Toyota",
+    "model": "Model_247",
+    "year": 2013,
+    "electric": false
+  },
+  {
+    "id": 22,
+    "brand": "BMW",
+    "model": "Model_566",
+    "year": 2012,
+    "electric": false
+  },
+  {
+    "id": 23,
+    "brand": "Audi",
+    "model": "Model_950",
+    "year": 2011,
+    "electric": false
+  },
+  {
+    "id": 24,
+    "brand": "BMW",
+    "model": "Model_971",
+    "year": 2006,
+    "electric": true
+  },
+  {
+    "id": 25,
+    "brand": "Toyota",
+    "model": "Model_796",
+    "year": 2014,
+    "electric": false
+  },
+  {
+    "id": 26,
+    "brand": "Audi",
+    "model": "Model_348",
+    "year": 2017,
+    "electric": false
+  },
+  {
+    "id": 27,
+    "brand": "Tesla",
+    "model": "Model_420",
+    "year": 2014,
+    "electric": false
+  },
+  {
+    "id": 28,
+    "brand": "Audi",
+    "model": "Model_936",
+    "year": 2001,
+    "electric": true
+  },
+  {
+    "id": 29,
+    "brand": "Audi",
+    "model": "Model_505",
+    "year": 2018,
+    "electric": false
+  },
+  {
+    "id": 30,
+    "brand": "Toyota",
+    "model": "Model_630",
+    "year": 2003,
+    "electric": true
+  },
+  {
+    "id": 31,
+    "brand": "Audi",
+    "model": "Model_250",
+    "year": 2004,
+    "electric": true
+  },
+  {
+    "id": 32,
+    "brand": "Audi",
+    "model": "Model_980",
+    "year": 2020,
+    "electric": true
+  },
+  {
+    "id": 33,
+    "brand": "Toyota",
+    "model": "Model_302",
+    "year": 2007,
+    "electric": false
+  },
+  {
+    "id": 34,
+    "brand": "Toyota",
+    "model": "Model_286",
+    "year": 2019,
+    "electric": false
+  },
+  {
+    "id": 35,
+    "brand": "Tata",
+    "model": "Model_622",
+    "year": 2011,
+    "electric": true
+  },
+  {
+    "id": 36,
+    "brand": "Tata",
+    "model": "Model_373",
+    "year": 2004,
+    "electric": false
+  },
+  {
+    "id": 37,
+    "brand": "Audi",
+    "model": "Model_158",
+    "year": 2000,
+    "electric": false
+  },
+  {
+    "id": 38,
+    "brand": "Audi",
+    "model": "Model_949",
+    "year": 2007,
+    "electric": true
+  },
+  {
+    "id": 39,
+    "brand": "Tata",
+    "model": "Model_576",
+    "year": 2021,
+    "electric": false
+  },
+  {
+    "id": 40,
+    "brand": "BMW",
+    "model": "Model_899",
+    "year": 2012,
+    "electric": false
+  },
+  {
+    "id": 41,
+    "brand": "Tesla",
+    "model": "Model_269",
+    "year": 2015,
+    "electric": true
+  },
+  {
+    "id": 42,
+    "brand": "Audi",
+    "model": "Model_582",
+    "year": 2008,
+    "electric": true
+  },
+  {
+    "id": 43,
+    "brand": "BMW",
+    "model": "Model_313",
+    "year": 2020,
+    "electric": true
+  },
+  {
+    "id": 44,
+    "brand": "Tesla",
+    "model": "Model_379",
+    "year": 2004,
+    "electric": false
+  },
+  {
+    "id": 45,
+    "brand": "Tata",
+    "model": "Model_293",
+    "year": 2004,
+    "electric": false
+  },
+  {
+    "id": 46,
+    "brand": "Tesla",
+    "model": "Model_813",
+    "year": 2013,
+    "electric": false
+  },
+  {
+    "id": 47,
+    "brand": "BMW",
+    "model": "Model_696",
+    "year": 2019,
+    "electric": false
+  },
+  {
+    "id": 48,
+    "brand": "BMW",
+    "model": "Model_494",
+    "year": 2005,
+    "electric": false
+  },
+  {
+    "id": 49,
+    "brand": "BMW",
+    "model": "Model_430",
+    "year": 2002,
+    "electric": false
+  },
+  {
+    "id": 50,
+    "brand": "Tesla",
+    "model": "Model_792",
+    "year": 2005,
+    "electric": false
+  },
+  {
+    "id": 51,
+    "brand": "Toyota",
+    "model": "Model_289",
+    "year": 2013,
+    "electric": false
+  },
+  {
+    "id": 52,
+    "brand": "Toyota",
+    "model": "Model_534",
+    "year": 2009,
+    "electric": true
+  },
+  {
+    "id": 53,
+    "brand": "Audi",
+    "model": "Model_246",
+    "year": 2009,
+    "electric": false
+  },
+  {
+    "id": 54,
+    "brand": "BMW",
+    "model": "Model_121",
+    "year": 2011,
+    "electric": true
+  },
+  {
+    "id": 55,
+    "brand": "Tata",
+    "model": "Model_598",
+    "year": 2017,
+    "electric": true
+  },
+  {
+    "id": 56,
+    "brand": "BMW",
+    "model": "Model_375",
+    "year": 2025,
+    "electric": true
+  },
+  {
+    "id": 57,
+    "brand": "Toyota",
+    "model": "Model_554",
+    "year": 2023,
+    "electric": false
+  },
+  {
+    "id": 58,
+    "brand": "Audi",
+    "model": "Model_304",
+    "year": 2012,
+    "electric": true
+  },
+  {
+    "id": 59,
+    "brand": "Tesla",
+    "model": "Model_231",
+    "year": 2018,
+    "electric": false
+  },
+  {
+    "id": 60,
+    "brand": "BMW",
+    "model": "Model_950",
+    "year": 2001,
+    "electric": true
+  },
+  {
+    "id": 61,
+    "brand": "Tata",
+    "model": "Model_736",
+    "year": 2006,
+    "electric": true
+  },
+  {
+    "id": 62,
+    "brand": "BMW",
+    "model": "Model_999",
+    "year": 2016,
+    "electric": false
+  },
+  {
+    "id": 63,
+    "brand": "Audi",
+    "model": "Model_604",
+    "year": 2010,
+    "electric": true
+  },
+  {
+    "id": 64,
+    "brand": "Tesla",
+    "model": "Model_239",
+    "year": 2020,
+    "electric": false
+  },
+  {
+    "id": 65,
+    "brand": "Tata",
+    "model": "Model_243",
+    "year": 2018,
+    "electric": true
+  },
+  {
+    "id": 66,
+    "brand": "Toyota",
+    "model": "Model_588",
+    "year": 2008,
+    "electric": false
+  },
+  {
+    "id": 67,
+    "brand": "Tata",
+    "model": "Model_409",
+    "year": 2003,
+    "electric": false
+  },
+  {
+    "id": 68,
+    "brand": "Tata",
+    "model": "Model_244",
+    "year": 2019,
+    "electric": false
+  },
+  {
+    "id": 69,
+    "brand": "Tesla",
+    "model": "Model_606",
+    "year": 2023,
+    "electric": false
+  },
+  {
+    "id": 70,
+    "brand": "Tesla",
+    "model": "Model_641",
+    "year": 2007,
+    "electric": false
+  },
+  {
+    "id": 71,
+    "brand": "Tata",
+    "model": "Model_138",
+    "year": 2012,
+    "electric": false
+  },
+  {
+    "id": 72,
+    "brand": "BMW",
+    "model": "Model_904",
+    "year": 2010,
+    "electric": false
+  },
+  {
+    "id": 73,
+    "brand": "Tesla",
+    "model": "Model_349",
+    "year": 2011,
+    "electric": false
+  },
+  {
+    "id": 74,
+    "brand": "BMW",
+    "model": "Model_840",
+    "year": 2018,
+    "electric": false
+  },
+  {
+    "id": 75,
+    "brand": "Audi",
+    "model": "Model_160",
+    "year": 2025,
+    "electric": false
+  },
+  {
+    "id": 76,
+    "brand": "Audi",
+    "model": "Model_649",
+    "year": 2011,
+    "electric": true
+  },
+  {
+    "id": 77,
+    "brand": "Tesla",
+    "model": "Model_965",
+    "year": 2020,
+    "electric": true
+  },
+  {
+    "id": 78,
+    "brand": "Toyota",
+    "model": "Model_334",
+    "year": 2006,
+    "electric": false
+  },
+  {
+    "id": 79,
+    "brand": "BMW",
+    "model": "Model_179",
+    "year": 2021,
+    "electric": true
+  },
+  {
+    "id": 80,
+    "brand": "Toyota",
+    "model": "Model_997",
+    "year": 2025,
+    "electric": false
+  },
+  {
+    "id": 81,
+    "brand": "Audi",
+    "model": "Model_547",
+    "year": 2002,
+    "electric": true
+  },
+  {
+    "id": 82,
+    "brand": "Tesla",
+    "model": "Model_260",
+    "year": 2021,
+    "electric": true
+  },
+  {
+    "id": 83,
+    "brand": "Tesla",
+    "model": "Model_884",
+    "year": 2015,
+    "electric": true
+  },
+  {
+    "id": 84,
+    "brand": "BMW",
+    "model": "Model_556",
+    "year": 2018,
+    "electric": true
+  },
+  {
+    "id": 85,
+    "brand": "BMW",
+    "model": "Model_410",
+    "year": 2022,
+    "electric": true
+  },
+  {
+    "id": 86,
+    "brand": "Toyota",
+    "model": "Model_415",
+    "year": 2008,
+    "electric": false
+  },
+  {
+    "id": 87,
+    "brand": "Tesla",
+    "model": "Model_503",
+    "year": 2009,
+    "electric": false
+  },
+  {
+    "id": 88,
+    "brand": "Audi",
+    "model": "Model_103",
+    "year": 2010,
+    "electric": true
+  },
+  {
+    "id": 89,
+    "brand": "Toyota",
+    "model": "Model_234",
+    "year": 2019,
+    "electric": true
+  },
+  {
+    "id": 90,
+    "brand": "Audi",
+    "model": "Model_816",
+    "year": 2014,
+    "electric": true
+  },
+  {
+    "id": 91,
+    "brand": "BMW",
+    "model": "Model_760",
+    "year": 2017,
+    "electric": true
+  },
+  {
+    "id": 92,
+    "brand": "BMW",
+    "model": "Model_291",
+    "year": 2000,
+    "electric": true
+  },
+  {
+    "id": 93,
+    "brand": "Tesla",
+    "model": "Model_570",
+    "year": 2005,
+    "electric": false
+  },
+  {
+    "id": 94,
+    "brand": "Audi",
+    "model": "Model_935",
+    "year": 2000,
+    "electric": false
+  },
+  {
+    "id": 95,
+    "brand": "Toyota",
+    "model": "Model_530",
+    "year": 2002,
+    "electric": false
+  },
+  {
+    "id": 96,
+    "brand": "Toyota",
+    "model": "Model_344",
+    "year": 2004,
+    "electric": false
+  },
+  {
+    "id": 97,
+    "brand": "Toyota",
+    "model": "Model_992",
+    "year": 2015,
+    "electric": false
+  },
+  {
+    "id": 98,
+    "brand": "Audi",
+    "model": "Model_678",
+    "year": 2022,
+    "electric": false
+  },
+  {
+    "id": 99,
+    "brand": "Tata",
+    "model": "Model_739",
+    "year": 2016,
+    "electric": false
+  },
+  {
+    "id": 100,
+    "brand": "Tata",
+    "model": "Model_414",
+    "year": 2001,
+    "electric": true
+  },
+  {
+    "id": 101,
+    "brand": "BMW",
+    "model": "Model_917",
+    "year": 2006,
+    "electric": false
+  },
+  {
+    "id": 102,
+    "brand": "Tesla",
+    "model": "Model_561",
+    "year": 2023,
+    "electric": false
+  },
+  {
+    "id": 103,
+    "brand": "Tata",
+    "model": "Model_583",
+    "year": 2001,
+    "electric": false
+  },
+  {
+    "id": 104,
+    "brand": "Toyota",
+    "model": "Model_672",
+    "year": 2024,
+    "electric": true
+  },
+  {
+    "id": 105,
+    "brand": "Toyota",
+    "model": "Model_715",
+    "year": 2022,
+    "electric": true
+  },
+  {
+    "id": 106,
+    "brand": "BMW",
+    "model": "Model_897",
+    "year": 2025,
+    "electric": false
+  },
+  {
+    "id": 107,
+    "brand": "Tesla",
+    "model": "Model_154",
+    "year": 2015,
+    "electric": false
+  },
+  {
+    "id": 108,
+    "brand": "Audi",
+    "model": "Model_547",
+    "year": 2025,
+    "electric": false
+  },
+  {
+    "id": 109,
+    "brand": "Toyota",
+    "model": "Model_105",
+    "year": 2010,
+    "electric": false
+  },
+  {
+    "id": 110,
+    "brand": "Audi",
+    "model": "Model_213",
+    "year": 2017,
+    "electric": false
+  },
+  {
+    "id": 111,
+    "brand": "BMW",
+    "model": "Model_254",
+    "year": 2003,
+    "electric": false
+  },
+  {
+    "id": 112,
+    "brand": "Audi",
+    "model": "Model_460",
+    "year": 2020,
+    "electric": false
+  },
+  {
+    "id": 113,
+    "brand": "Toyota",
+    "model": "Model_650",
+    "year": 2022,
+    "electric": false
+  },
+  {
+    "id": 114,
+    "brand": "Audi",
+    "model": "Model_289",
+    "year": 2013,
+    "electric": true
+  },
+  {
+    "id": 115,
+    "brand": "BMW",
+    "model": "Model_529",
+    "year": 2022,
+    "electric": true
+  },
+  {
+    "id": 116,
+    "brand": "Toyota",
+    "model": "Model_227",
+    "year": 2004,
+    "electric": false
+  },
+  {
+    "id": 117,
+    "brand": "BMW",
+    "model": "Model_756",
+    "year": 2018,
+    "electric": true
+  },
+  {
+    "id": 118,
+    "brand": "Toyota",
+    "model": "Model_794",
+    "year": 2003,
+    "electric": false
+  },
+  {
+    "id": 119,
+    "brand": "BMW",
+    "model": "Model_423",
+    "year": 2022,
+    "electric": false
+  },
+  {
+    "id": 120,
+    "brand": "Tesla",
+    "model": "Model_381",
+    "year": 2024,
+    "electric": false
+  },
+  {
+    "id": 121,
+    "brand": "Audi",
+    "model": "Model_752",
+    "year": 2003,
+    "electric": true
+  },
+  {
+    "id": 122,
+    "brand": "Tata",
+    "model": "Model_171",
+    "year": 2016,
+    "electric": true
+  },
+  {
+    "id": 123,
+    "brand": "Toyota",
+    "model": "Model_472",
+    "year": 2015,
+    "electric": true
+  },
+  {
+    "id": 124,
+    "brand": "Tesla",
+    "model": "Model_499",
+    "year": 2001,
+    "electric": true
+  },
+  {
+    "id": 125,
+    "brand": "BMW",
+    "model": "Model_586",
+    "year": 2013,
+    "electric": true
+  },
+  {
+    "id": 126,
+    "brand": "BMW",
+    "model": "Model_776",
+    "year": 2001,
+    "electric": false
+  },
+  {
+    "id": 127,
+    "brand": "Toyota",
+    "model": "Model_515",
+    "year": 2002,
+    "electric": false
+  },
+  {
+    "id": 128,
+    "brand": "Audi",
+    "model": "Model_780",
+    "year": 2017,
+    "electric": false
+  },
+  {
+    "id": 129,
+    "brand": "Toyota",
+    "model": "Model_959",
+    "year": 2005,
+    "electric": false
+  },
+  {
+    "id": 130,
+    "brand": "BMW",
+    "model": "Model_758",
+    "year": 2024,
+    "electric": true
+  },
+  {
+    "id": 131,
+    "brand": "Toyota",
+    "model": "Model_207",
+    "year": 2016,
+    "electric": false
+  },
+  {
+    "id": 132,
+    "brand": "Audi",
+    "model": "Model_428",
+    "year": 2012,
+    "electric": true
+  },
+  {
+    "id": 133,
+    "brand": "BMW",
+    "model": "Model_539",
+    "year": 2015,
+    "electric": false
+  },
+  {
+    "id": 134,
+    "brand": "Audi",
+    "model": "Model_817",
+    "year": 2014,
+    "electric": false
+  },
+  {
+    "id": 135,
+    "brand": "Audi",
+    "model": "Model_292",
+    "year": 2002,
+    "electric": false
+  },
+  {
+    "id": 136,
+    "brand": "Tesla",
+    "model": "Model_762",
+    "year": 2019,
+    "electric": false
+  },
+  {
+    "id": 137,
+    "brand": "BMW",
+    "model": "Model_548",
+    "year": 2001,
+    "electric": false
+  },
+  {
+    "id": 138,
+    "brand": "Toyota",
+    "model": "Model_657",
+    "year": 2005,
+    "electric": false
+  },
+  {
+    "id": 139,
+    "brand": "Audi",
+    "model": "Model_862",
+    "year": 2020,
+    "electric": true
+  },
+  {
+    "id": 140,
+    "brand": "Toyota",
+    "model": "Model_510",
+    "year": 2023,
+    "electric": false
+  },
+  {
+    "id": 141,
+    "brand": "Toyota",
+    "model": "Model_187",
+    "year": 2020,
+    "electric": true
+  },
+  {
+    "id": 142,
+    "brand": "BMW",
+    "model": "Model_371",
+    "year": 2001,
+    "electric": false
+  },
+  {
+    "id": 143,
+    "brand": "Toyota",
+    "model": "Model_558",
+    "year": 2020,
+    "electric": false
+  },
+  {
+    "id": 144,
+    "brand": "Audi",
+    "model": "Model_904",
+    "year": 2001,
+    "electric": true
+  },
+  {
+    "id": 145,
+    "brand": "Audi",
+    "model": "Model_475",
+    "year": 2023,
+    "electric": true
+  },
+  {
+    "id": 146,
+    "brand": "Audi",
+    "model": "Model_955",
+    "year": 2008,
+    "electric": false
+  },
+  {
+    "id": 147,
+    "brand": "Tesla",
+    "model": "Model_855",
+    "year": 2011,
+    "electric": false
+  },
+  {
+    "id": 148,
+    "brand": "Tesla",
+    "model": "Model_747",
+    "year": 2004,
+    "electric": false
+  },
+  {
+    "id": 149,
+    "brand": "Tata",
+    "model": "Model_299",
+    "year": 2008,
+    "electric": false
+  },
+  {
+    "id": 150,
+    "brand": "BMW",
+    "model": "Model_105",
+    "year": 2009,
+    "electric": true
+  },
+  {
+    "id": 151,
+    "brand": "Toyota",
+    "model": "Model_299",
+    "year": 2024,
+    "electric": true
+  },
+  {
+    "id": 152,
+    "brand": "Toyota",
+    "model": "Model_824",
+    "year": 2005,
+    "electric": true
+  },
+  {
+    "id": 153,
+    "brand": "Audi",
+    "model": "Model_148",
+    "year": 2017,
+    "electric": false
+  },
+  {
+    "id": 154,
+    "brand": "BMW",
+    "model": "Model_160",
+    "year": 2011,
+    "electric": true
+  },
+  {
+    "id": 155,
+    "brand": "BMW",
+    "model": "Model_190",
+    "year": 2011,
+    "electric": true
+  },
+  {
+    "id": 156,
+    "brand": "Audi",
+    "model": "Model_286",
+    "year": 2011,
+    "electric": false
+  },
+  {
+    "id": 157,
+    "brand": "Tata",
+    "model": "Model_635",
+    "year": 2014,
+    "electric": false
+  },
+  {
+    "id": 158,
+    "brand": "Tata",
+    "model": "Model_947",
+    "year": 2005,
+    "electric": true
+  },
+  {
+    "id": 159,
+    "brand": "BMW",
+    "model": "Model_384",
+    "year": 2006,
+    "electric": true
+  },
+  {
+    "id": 160,
+    "brand": "Tata",
+    "model": "Model_246",
+    "year": 2007,
+    "electric": true
+  },
+  {
+    "id": 161,
+    "brand": "Audi",
+    "model": "Model_446",
+    "year": 2018,
+    "electric": true
+  },
+  {
+    "id": 162,
+    "brand": "Toyota",
+    "model": "Model_239",
+    "year": 2020,
+    "electric": false
+  },
+  {
+    "id": 163,
+    "brand": "Tesla",
+    "model": "Model_430",
+    "year": 2022,
+    "electric": true
+  },
+  {
+    "id": 164,
+    "brand": "Audi",
+    "model": "Model_916",
+    "year": 2001,
+    "electric": false
+  },
+  {
+    "id": 165,
+    "brand": "BMW",
+    "model": "Model_209",
+    "year": 2005,
+    "electric": true
+  },
+  {
+    "id": 166,
+    "brand": "Tata",
+    "model": "Model_196",
+    "year": 2015,
+    "electric": false
+  },
+  {
+    "id": 167,
+    "brand": "Audi",
+    "model": "Model_436",
+    "year": 2014,
+    "electric": false
+  },
+  {
+    "id": 168,
+    "brand": "Toyota",
+    "model": "Model_466",
+    "year": 2001,
+    "electric": true
+  },
+  {
+    "id": 169,
+    "brand": "BMW",
+    "model": "Model_996",
+    "year": 2018,
+    "electric": false
+  },
+  {
+    "id": 170,
+    "brand": "Toyota",
+    "model": "Model_212",
+    "year": 2009,
+    "electric": false
+  },
+  {
+    "id": 171,
+    "brand": "Toyota",
+    "model": "Model_632",
+    "year": 2021,
+    "electric": false
+  },
+  {
+    "id": 172,
+    "brand": "Tata",
+    "model": "Model_870",
+    "year": 2001,
+    "electric": false
+  },
+  {
+    "id": 173,
+    "brand": "Toyota",
+    "model": "Model_528",
+    "year": 2004,
+    "electric": true
+  },
+  {
+    "id": 174,
+    "brand": "Audi",
+    "model": "Model_202",
+    "year": 2014,
+    "electric": false
+  },
+  {
+    "id": 175,
+    "brand": "Tesla",
+    "model": "Model_555",
+    "year": 2018,
+    "electric": true
+  },
+  {
+    "id": 176,
+    "brand": "BMW",
+    "model": "Model_848",
+    "year": 2024,
+    "electric": true
+  },
+  {
+    "id": 177,
+    "brand": "Tata",
+    "model": "Model_385",
+    "year": 2011,
+    "electric": false
+  },
+  {
+    "id": 178,
+    "brand": "Tesla",
+    "model": "Model_744",
+    "year": 2016,
+    "electric": true
+  },
+  {
+    "id": 179,
+    "brand": "Tata",
+    "model": "Model_328",
+    "year": 2023,
+    "electric": true
+  },
+  {
+    "id": 180,
+    "brand": "Tesla",
+    "model": "Model_905",
+    "year": 2001,
+    "electric": false
+  },
+  {
+    "id": 181,
+    "brand": "Audi",
+    "model": "Model_654",
+    "year": 2016,
+    "electric": false
+  },
+  {
+    "id": 182,
+    "brand": "Toyota",
+    "model": "Model_471",
+    "year": 2024,
+    "electric": false
+  },
+  {
+    "id": 183,
+    "brand": "Audi",
+    "model": "Model_373",
+    "year": 2015,
+    "electric": false
+  },
+  {
+    "id": 184,
+    "brand": "Tata",
+    "model": "Model_748",
+    "year": 2022,
+    "electric": false
+  },
+  {
+    "id": 185,
+    "brand": "Tesla",
+    "model": "Model_657",
+    "year": 2020,
+    "electric": true
+  },
+  {
+    "id": 186,
+    "brand": "Tata",
+    "model": "Model_811",
+    "year": 2019,
+    "electric": false
+  },
+  {
+    "id": 187,
+    "brand": "BMW",
+    "model": "Model_855",
+    "year": 2011,
+    "electric": false
+  },
+  {
+    "id": 188,
+    "brand": "BMW",
+    "model": "Model_185",
+    "year": 2020,
+    "electric": false
+  },
+  {
+    "id": 189,
+    "brand": "Toyota",
+    "model": "Model_255",
+    "year": 2015,
+    "electric": false
+  },
+  {
+    "id": 190,
+    "brand": "Tata",
+    "model": "Model_481",
+    "year": 2009,
+    "electric": false
+  },
+  {
+    "id": 191,
+    "brand": "Audi",
+    "model": "Model_591",
+    "year": 2006,
+    "electric": true
+  },
+  {
+    "id": 192,
+    "brand": "Tesla",
+    "model": "Model_485",
+    "year": 2015,
+    "electric": false
+  },
+  {
+    "id": 193,
+    "brand": "Tesla",
+    "model": "Model_628",
+    "year": 2014,
+    "electric": false
+  },
+  {
+    "id": 194,
+    "brand": "Toyota",
+    "model": "Model_869",
+    "year": 2001,
+    "electric": false
+  },
+  {
+    "id": 195,
+    "brand": "Toyota",
+    "model": "Model_609",
+    "year": 2009,
+    "electric": true
+  },
+  {
+    "id": 196,
+    "brand": "BMW",
+    "model": "Model_460",
+    "year": 2001,
+    "electric": true
+  },
+  {
+    "id": 197,
+    "brand": "Tesla",
+    "model": "Model_642",
+    "year": 2012,
+    "electric": false
+  },
+  {
+    "id": 198,
+    "brand": "Toyota",
+    "model": "Model_406",
+    "year": 2013,
+    "electric": true
+  },
+  {
+    "id": 199,
+    "brand": "Tata",
+    "model": "Model_976",
+    "year": 2004,
+    "electric": false
+  },
+  {
+    "id": 200,
+    "brand": "Audi",
+    "model": "Model_796",
+    "year": 2023,
+    "electric": false
+  },
+  {
+    "id": 201,
+    "brand": "Toyota",
+    "model": "Model_514",
+    "year": 2017,
+    "electric": true
+  },
+  {
+    "id": 202,
+    "brand": "Tesla",
+    "model": "Model_909",
+    "year": 2021,
+    "electric": false
+  },
+  {
+    "id": 203,
+    "brand": "Audi",
+    "model": "Model_281",
+    "year": 2008,
+    "electric": true
+  },
+  {
+    "id": 204,
+    "brand": "Audi",
+    "model": "Model_632",
+    "year": 2012,
+    "electric": false
+  },
+  {
+    "id": 205,
+    "brand": "Tata",
+    "model": "Model_512",
+    "year": 2003,
+    "electric": false
+  },
+  {
+    "id": 206,
+    "brand": "Audi",
+    "model": "Model_160",
+    "year": 2021,
+    "electric": true
+  },
+  {
+    "id": 207,
+    "brand": "BMW",
+    "model": "Model_944",
+    "year": 2011,
+    "electric": false
+  },
+  {
+    "id": 208,
+    "brand": "Audi",
+    "model": "Model_912",
+    "year": 2002,
+    "electric": false
+  },
+  {
+    "id": 209,
+    "brand": "Tata",
+    "model": "Model_871",
+    "year": 2012,
+    "electric": true
+  },
+  {
+    "id": 210,
+    "brand": "Audi",
+    "model": "Model_560",
+    "year": 2002,
+    "electric": true
+  },
+  {
+    "id": 211,
+    "brand": "Tata",
+    "model": "Model_266",
+    "year": 2004,
+    "electric": false
+  },
+  {
+    "id": 212,
+    "brand": "Tesla",
+    "model": "Model_598",
+    "year": 2004,
+    "electric": true
+  },
+  {
+    "id": 213,
+    "brand": "Audi",
+    "model": "Model_794",
+    "year": 2014,
+    "electric": false
+  },
+  {
+    "id": 214,
+    "brand": "Audi",
+    "model": "Model_952",
+    "year": 2011,
+    "electric": true
+  },
+  {
+    "id": 215,
+    "brand": "BMW",
+    "model": "Model_921",
+    "year": 2022,
+    "electric": false
+  },
+  {
+    "id": 216,
+    "brand": "Tesla",
+    "model": "Model_862",
+    "year": 2023,
+    "electric": false
+  },
+  {
+    "id": 217,
+    "brand": "Toyota",
+    "model": "Model_283",
+    "year": 2022,
+    "electric": false
+  },
+  {
+    "id": 218,
+    "brand": "Audi",
+    "model": "Model_959",
+    "year": 2000,
+    "electric": true
+  },
+  {
+    "id": 219,
+    "brand": "Toyota",
+    "model": "Model_828",
+    "year": 2024,
+    "electric": true
+  },
+  {
+    "id": 220,
+    "brand": "Audi",
+    "model": "Model_713",
+    "year": 2002,
+    "electric": true
+  },
+  {
+    "id": 221,
+    "brand": "BMW",
+    "model": "Model_207",
+    "year": 2010,
+    "electric": true
+  },
+  {
+    "id": 222,
+    "brand": "BMW",
+    "model": "Model_579",
+    "year": 2001,
+    "electric": true
+  },
+  {
+    "id": 223,
+    "brand": "Toyota",
+    "model": "Model_228",
+    "year": 2003,
+    "electric": false
+  },
+  {
+    "id": 224,
+    "brand": "Tesla",
+    "model": "Model_107",
+    "year": 2000,
+    "electric": false
+  },
+  {
+    "id": 225,
+    "brand": "Audi",
+    "model": "Model_678",
+    "year": 2012,
+    "electric": true
+  },
+  {
+    "id": 226,
+    "brand": "Tesla",
+    "model": "Model_614",
+    "year": 2017,
+    "electric": false
+  },
+  {
+    "id": 227,
+    "brand": "Audi",
+    "model": "Model_509",
+    "year": 2005,
+    "electric": false
+  },
+  {
+    "id": 228,
+    "brand": "Audi",
+    "model": "Model_108",
+    "year": 2025,
+    "electric": true
+  },
+  {
+    "id": 229,
+    "brand": "BMW",
+    "model": "Model_770",
+    "year": 2006,
+    "electric": false
+  },
+  {
+    "id": 230,
+    "brand": "Tata",
+    "model": "Model_211",
+    "year": 2023,
+    "electric": false
+  },
+  {
+    "id": 231,
+    "brand": "BMW",
+    "model": "Model_352",
+    "year": 2003,
+    "electric": false
+  },
+  {
+    "id": 232,
+    "brand": "Audi",
+    "model": "Model_722",
+    "year": 2007,
+    "electric": true
+  },
+  {
+    "id": 233,
+    "brand": "Tata",
+    "model": "Model_147",
+    "year": 2014,
+    "electric": false
+  },
+  {
+    "id": 234,
+    "brand": "Tata",
+    "model": "Model_594",
+    "year": 2017,
+    "electric": false
+  },
+  {
+    "id": 235,
+    "brand": "Toyota",
+    "model": "Model_186",
+    "year": 2001,
+    "electric": true
+  },
+  {
+    "id": 236,
+    "brand": "BMW",
+    "model": "Model_894",
+    "year": 2000,
+    "electric": true
+  },
+  {
+    "id": 237,
+    "brand": "Audi",
+    "model": "Model_250",
+    "year": 2022,
+    "electric": true
+  },
+  {
+    "id": 238,
+    "brand": "BMW",
+    "model": "Model_172",
+    "year": 2022,
+    "electric": true
+  },
+  {
+    "id": 239,
+    "brand": "BMW",
+    "model": "Model_386",
+    "year": 2022,
+    "electric": false
+  },
+  {
+    "id": 240,
+    "brand": "Toyota",
+    "model": "Model_817",
+    "year": 2019,
+    "electric": true
+  },
+  {
+    "id": 241,
+    "brand": "Tesla",
+    "model": "Model_166",
+    "year": 2013,
+    "electric": false
+  },
+  {
+    "id": 242,
+    "brand": "BMW",
+    "model": "Model_486",
+    "year": 2014,
+    "electric": false
+  },
+  {
+    "id": 243,
+    "brand": "BMW",
+    "model": "Model_775",
+    "year": 2008,
+    "electric": false
+  },
+  {
+    "id": 244,
+    "brand": "Tata",
+    "model": "Model_518",
+    "year": 2025,
+    "electric": true
+  },
+  {
+    "id": 245,
+    "brand": "BMW",
+    "model": "Model_694",
+    "year": 2010,
+    "electric": false
+  },
+  {
+    "id": 246,
+    "brand": "Toyota",
+    "model": "Model_452",
+    "year": 2001,
+    "electric": true
+  },
+  {
+    "id": 247,
+    "brand": "BMW",
+    "model": "Model_889",
+    "year": 2006,
+    "electric": false
+  },
+  {
+    "id": 248,
+    "brand": "Audi",
+    "model": "Model_834",
+    "year": 2014,
+    "electric": false
+  },
+  {
+    "id": 249,
+    "brand": "Toyota",
+    "model": "Model_578",
+    "year": 2005,
+    "electric": true
+  },
+  {
+    "id": 250,
+    "brand": "Audi",
+    "model": "Model_208",
+    "year": 2025,
+    "electric": false
+  },
+  {
+    "id": 251,
+    "brand": "Toyota",
+    "model": "Model_986",
+    "year": 2023,
+    "electric": false
+  },
+  {
+    "id": 252,
+    "brand": "Audi",
+    "model": "Model_432",
+    "year": 2019,
+    "electric": false
+  },
+  {
+    "id": 253,
+    "brand": "BMW",
+    "model": "Model_294",
+    "year": 2006,
+    "electric": false
+  },
+  {
+    "id": 254,
+    "brand": "Tata",
+    "model": "Model_867",
+    "year": 2014,
+    "electric": true
+  },
+  {
+    "id": 255,
+    "brand": "BMW",
+    "model": "Model_352",
+    "year": 2024,
+    "electric": true
+  },
+  {
+    "id": 256,
+    "brand": "Tesla",
+    "model": "Model_179",
+    "year": 2019,
+    "electric": false
+  },
+  {
+    "id": 257,
+    "brand": "Tata",
+    "model": "Model_532",
+    "year": 2022,
+    "electric": false
+  },
+  {
+    "id": 258,
+    "brand": "Tata",
+    "model": "Model_149",
+    "year": 2016,
+    "electric": false
+  },
+  {
+    "id": 259,
+    "brand": "Tata",
+    "model": "Model_162",
+    "year": 2019,
+    "electric": false
+  },
+  {
+    "id": 260,
+    "brand": "Audi",
+    "model": "Model_905",
+    "year": 2012,
+    "electric": false
+  },
+  {
+    "id": 261,
+    "brand": "BMW",
+    "model": "Model_901",
+    "year": 2012,
+    "electric": true
+  },
+  {
+    "id": 262,
+    "brand": "Audi",
+    "model": "Model_869",
+    "year": 2012,
+    "electric": false
+  },
+  {
+    "id": 263,
+    "brand": "Toyota",
+    "model": "Model_496",
+    "year": 2019,
+    "electric": false
+  },
+  {
+    "id": 264,
+    "brand": "Tata",
+    "model": "Model_290",
+    "year": 2021,
+    "electric": false
+  },
+  {
+    "id": 265,
+    "brand": "Audi",
+    "model": "Model_247",
+    "year": 2014,
+    "electric": true
+  },
+  {
+    "id": 266,
+    "brand": "Toyota",
+    "model": "Model_504",
+    "year": 2009,
+    "electric": true
+  },
+  {
+    "id": 267,
+    "brand": "BMW",
+    "model": "Model_394",
+    "year": 2016,
+    "electric": true
+  },
+  {
+    "id": 268,
+    "brand": "Tesla",
+    "model": "Model_510",
+    "year": 2023,
+    "electric": false
+  },
+  {
+    "id": 269,
+    "brand": "Tesla",
+    "model": "Model_257",
+    "year": 2015,
+    "electric": true
+  },
+  {
+    "id": 270,
+    "brand": "BMW",
+    "model": "Model_958",
+    "year": 2021,
+    "electric": false
+  },
+  {
+    "id": 271,
+    "brand": "BMW",
+    "model": "Model_680",
+    "year": 2025,
+    "electric": false
+  },
+  {
+    "id": 272,
+    "brand": "Toyota",
+    "model": "Model_748",
+    "year": 2006,
+    "electric": false
+  },
+  {
+    "id": 273,
+    "brand": "Audi",
+    "model": "Model_779",
+    "year": 2007,
+    "electric": true
+  },
+  {
+    "id": 274,
+    "brand": "Tesla",
+    "model": "Model_601",
+    "year": 2006,
+    "electric": true
+  },
+  {
+    "id": 275,
+    "brand": "Tesla",
+    "model": "Model_380",
+    "year": 2003,
+    "electric": false
+  },
+  {
+    "id": 276,
+    "brand": "Audi",
+    "model": "Model_509",
+    "year": 2001,
+    "electric": false
+  },
+  {
+    "id": 277,
+    "brand": "Tata",
+    "model": "Model_237",
+    "year": 2012,
+    "electric": false
+  },
+  {
+    "id": 278,
+    "brand": "Tata",
+    "model": "Model_344",
+    "year": 2004,
+    "electric": true
+  },
+  {
+    "id": 279,
+    "brand": "Toyota",
+    "model": "Model_959",
+    "year": 2023,
+    "electric": false
+  },
+  {
+    "id": 280,
+    "brand": "Tesla",
+    "model": "Model_864",
+    "year": 2024,
+    "electric": false
+  },
+  {
+    "id": 281,
+    "brand": "Toyota",
+    "model": "Model_505",
+    "year": 2021,
+    "electric": true
+  },
+  {
+    "id": 282,
+    "brand": "Toyota",
+    "model": "Model_891",
+    "year": 2014,
+    "electric": false
+  },
+  {
+    "id": 283,
+    "brand": "Tata",
+    "model": "Model_416",
+    "year": 2025,
+    "electric": false
+  },
+  {
+    "id": 284,
+    "brand": "BMW",
+    "model": "Model_522",
+    "year": 2021,
+    "electric": false
+  },
+  {
+    "id": 285,
+    "brand": "BMW",
+    "model": "Model_140",
+    "year": 2002,
+    "electric": false
+  },
+  {
+    "id": 286,
+    "brand": "Tata",
+    "model": "Model_853",
+    "year": 2020,
+    "electric": false
+  },
+  {
+    "id": 287,
+    "brand": "Tata",
+    "model": "Model_336",
+    "year": 2005,
+    "electric": true
+  },
+  {
+    "id": 288,
+    "brand": "Tesla",
+    "model": "Model_219",
+    "year": 2008,
+    "electric": true
+  },
+  {
+    "id": 289,
+    "brand": "Tesla",
+    "model": "Model_407",
+    "year": 2013,
+    "electric": false
+  },
+  {
+    "id": 290,
+    "brand": "Audi",
+    "model": "Model_545",
+    "year": 2010,
+    "electric": true
+  },
+  {
+    "id": 291,
+    "brand": "Tesla",
+    "model": "Model_275",
+    "year": 2019,
+    "electric": true
+  },
+  {
+    "id": 292,
+    "brand": "Toyota",
+    "model": "Model_521",
+    "year": 2018,
+    "electric": true
+  },
+  {
+    "id": 293,
+    "brand": "Toyota",
+    "model": "Model_640",
+    "year": 2010,
+    "electric": false
+  }
+]

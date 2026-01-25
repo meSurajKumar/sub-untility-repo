@@ -1,0 +1,1570 @@
+[
+  {
+    "id": 1,
+    "name": "Animal_1",
+    "species": "Reptile",
+    "lifespan": 67,
+    "isWild": true
+  },
+  {
+    "id": 2,
+    "name": "Animal_2",
+    "species": "Reptile",
+    "lifespan": 16,
+    "isWild": false
+  },
+  {
+    "id": 3,
+    "name": "Animal_3",
+    "species": "Reptile",
+    "lifespan": 5,
+    "isWild": true
+  },
+  {
+    "id": 4,
+    "name": "Animal_4",
+    "species": "Fish",
+    "lifespan": 31,
+    "isWild": true
+  },
+  {
+    "id": 5,
+    "name": "Animal_5",
+    "species": "Reptile",
+    "lifespan": 32,
+    "isWild": false
+  },
+  {
+    "id": 6,
+    "name": "Animal_6",
+    "species": "Mammal",
+    "lifespan": 70,
+    "isWild": true
+  },
+  {
+    "id": 7,
+    "name": "Animal_7",
+    "species": "Fish",
+    "lifespan": 80,
+    "isWild": true
+  },
+  {
+    "id": 8,
+    "name": "Animal_8",
+    "species": "Reptile",
+    "lifespan": 57,
+    "isWild": false
+  },
+  {
+    "id": 9,
+    "name": "Animal_9",
+    "species": "Bird",
+    "lifespan": 22,
+    "isWild": false
+  },
+  {
+    "id": 10,
+    "name": "Animal_10",
+    "species": "Bird",
+    "lifespan": 56,
+    "isWild": true
+  },
+  {
+    "id": 11,
+    "name": "Animal_11",
+    "species": "Reptile",
+    "lifespan": 61,
+    "isWild": true
+  },
+  {
+    "id": 12,
+    "name": "Animal_12",
+    "species": "Bird",
+    "lifespan": 61,
+    "isWild": false
+  },
+  {
+    "id": 13,
+    "name": "Animal_13",
+    "species": "Bird",
+    "lifespan": 70,
+    "isWild": false
+  },
+  {
+    "id": 14,
+    "name": "Animal_14",
+    "species": "Mammal",
+    "lifespan": 33,
+    "isWild": false
+  },
+  {
+    "id": 15,
+    "name": "Animal_15",
+    "species": "Mammal",
+    "lifespan": 23,
+    "isWild": true
+  },
+  {
+    "id": 16,
+    "name": "Animal_16",
+    "species": "Bird",
+    "lifespan": 57,
+    "isWild": true
+  },
+  {
+    "id": 17,
+    "name": "Animal_17",
+    "species": "Fish",
+    "lifespan": 72,
+    "isWild": true
+  },
+  {
+    "id": 18,
+    "name": "Animal_18",
+    "species": "Reptile",
+    "lifespan": 61,
+    "isWild": false
+  },
+  {
+    "id": 19,
+    "name": "Animal_19",
+    "species": "Fish",
+    "lifespan": 1,
+    "isWild": false
+  },
+  {
+    "id": 20,
+    "name": "Animal_20",
+    "species": "Fish",
+    "lifespan": 33,
+    "isWild": false
+  },
+  {
+    "id": 21,
+    "name": "Animal_21",
+    "species": "Reptile",
+    "lifespan": 25,
+    "isWild": true
+  },
+  {
+    "id": 22,
+    "name": "Animal_22",
+    "species": "Reptile",
+    "lifespan": 72,
+    "isWild": true
+  },
+  {
+    "id": 23,
+    "name": "Animal_23",
+    "species": "Reptile",
+    "lifespan": 25,
+    "isWild": false
+  },
+  {
+    "id": 24,
+    "name": "Animal_24",
+    "species": "Bird",
+    "lifespan": 24,
+    "isWild": true
+  },
+  {
+    "id": 25,
+    "name": "Animal_25",
+    "species": "Fish",
+    "lifespan": 25,
+    "isWild": false
+  },
+  {
+    "id": 26,
+    "name": "Animal_26",
+    "species": "Mammal",
+    "lifespan": 4,
+    "isWild": false
+  },
+  {
+    "id": 27,
+    "name": "Animal_27",
+    "species": "Fish",
+    "lifespan": 13,
+    "isWild": true
+  },
+  {
+    "id": 28,
+    "name": "Animal_28",
+    "species": "Fish",
+    "lifespan": 78,
+    "isWild": true
+  },
+  {
+    "id": 29,
+    "name": "Animal_29",
+    "species": "Mammal",
+    "lifespan": 17,
+    "isWild": true
+  },
+  {
+    "id": 30,
+    "name": "Animal_30",
+    "species": "Reptile",
+    "lifespan": 17,
+    "isWild": true
+  },
+  {
+    "id": 31,
+    "name": "Animal_31",
+    "species": "Mammal",
+    "lifespan": 71,
+    "isWild": true
+  },
+  {
+    "id": 32,
+    "name": "Animal_32",
+    "species": "Reptile",
+    "lifespan": 59,
+    "isWild": true
+  },
+  {
+    "id": 33,
+    "name": "Animal_33",
+    "species": "Bird",
+    "lifespan": 13,
+    "isWild": false
+  },
+  {
+    "id": 34,
+    "name": "Animal_34",
+    "species": "Bird",
+    "lifespan": 67,
+    "isWild": true
+  },
+  {
+    "id": 35,
+    "name": "Animal_35",
+    "species": "Reptile",
+    "lifespan": 25,
+    "isWild": false
+  },
+  {
+    "id": 36,
+    "name": "Animal_36",
+    "species": "Bird",
+    "lifespan": 35,
+    "isWild": false
+  },
+  {
+    "id": 37,
+    "name": "Animal_37",
+    "species": "Fish",
+    "lifespan": 67,
+    "isWild": true
+  },
+  {
+    "id": 38,
+    "name": "Animal_38",
+    "species": "Bird",
+    "lifespan": 17,
+    "isWild": true
+  },
+  {
+    "id": 39,
+    "name": "Animal_39",
+    "species": "Bird",
+    "lifespan": 17,
+    "isWild": false
+  },
+  {
+    "id": 40,
+    "name": "Animal_40",
+    "species": "Mammal",
+    "lifespan": 52,
+    "isWild": false
+  },
+  {
+    "id": 41,
+    "name": "Animal_41",
+    "species": "Fish",
+    "lifespan": 34,
+    "isWild": false
+  },
+  {
+    "id": 42,
+    "name": "Animal_42",
+    "species": "Reptile",
+    "lifespan": 18,
+    "isWild": false
+  },
+  {
+    "id": 43,
+    "name": "Animal_43",
+    "species": "Fish",
+    "lifespan": 46,
+    "isWild": true
+  },
+  {
+    "id": 44,
+    "name": "Animal_44",
+    "species": "Fish",
+    "lifespan": 27,
+    "isWild": false
+  },
+  {
+    "id": 45,
+    "name": "Animal_45",
+    "species": "Bird",
+    "lifespan": 49,
+    "isWild": false
+  },
+  {
+    "id": 46,
+    "name": "Animal_46",
+    "species": "Mammal",
+    "lifespan": 80,
+    "isWild": false
+  },
+  {
+    "id": 47,
+    "name": "Animal_47",
+    "species": "Fish",
+    "lifespan": 14,
+    "isWild": false
+  },
+  {
+    "id": 48,
+    "name": "Animal_48",
+    "species": "Bird",
+    "lifespan": 50,
+    "isWild": true
+  },
+  {
+    "id": 49,
+    "name": "Animal_49",
+    "species": "Reptile",
+    "lifespan": 47,
+    "isWild": true
+  },
+  {
+    "id": 50,
+    "name": "Animal_50",
+    "species": "Reptile",
+    "lifespan": 26,
+    "isWild": true
+  },
+  {
+    "id": 51,
+    "name": "Animal_51",
+    "species": "Bird",
+    "lifespan": 67,
+    "isWild": false
+  },
+  {
+    "id": 52,
+    "name": "Animal_52",
+    "species": "Reptile",
+    "lifespan": 14,
+    "isWild": false
+  },
+  {
+    "id": 53,
+    "name": "Animal_53",
+    "species": "Bird",
+    "lifespan": 46,
+    "isWild": false
+  },
+  {
+    "id": 54,
+    "name": "Animal_54",
+    "species": "Fish",
+    "lifespan": 68,
+    "isWild": false
+  },
+  {
+    "id": 55,
+    "name": "Animal_55",
+    "species": "Bird",
+    "lifespan": 13,
+    "isWild": true
+  },
+  {
+    "id": 56,
+    "name": "Animal_56",
+    "species": "Bird",
+    "lifespan": 32,
+    "isWild": true
+  },
+  {
+    "id": 57,
+    "name": "Animal_57",
+    "species": "Fish",
+    "lifespan": 48,
+    "isWild": false
+  },
+  {
+    "id": 58,
+    "name": "Animal_58",
+    "species": "Fish",
+    "lifespan": 11,
+    "isWild": true
+  },
+  {
+    "id": 59,
+    "name": "Animal_59",
+    "species": "Reptile",
+    "lifespan": 8,
+    "isWild": true
+  },
+  {
+    "id": 60,
+    "name": "Animal_60",
+    "species": "Reptile",
+    "lifespan": 43,
+    "isWild": false
+  },
+  {
+    "id": 61,
+    "name": "Animal_61",
+    "species": "Reptile",
+    "lifespan": 40,
+    "isWild": true
+  },
+  {
+    "id": 62,
+    "name": "Animal_62",
+    "species": "Bird",
+    "lifespan": 43,
+    "isWild": false
+  },
+  {
+    "id": 63,
+    "name": "Animal_63",
+    "species": "Bird",
+    "lifespan": 46,
+    "isWild": true
+  },
+  {
+    "id": 64,
+    "name": "Animal_64",
+    "species": "Reptile",
+    "lifespan": 34,
+    "isWild": true
+  },
+  {
+    "id": 65,
+    "name": "Animal_65",
+    "species": "Fish",
+    "lifespan": 58,
+    "isWild": true
+  },
+  {
+    "id": 66,
+    "name": "Animal_66",
+    "species": "Bird",
+    "lifespan": 27,
+    "isWild": true
+  },
+  {
+    "id": 67,
+    "name": "Animal_67",
+    "species": "Mammal",
+    "lifespan": 9,
+    "isWild": false
+  },
+  {
+    "id": 68,
+    "name": "Animal_68",
+    "species": "Reptile",
+    "lifespan": 78,
+    "isWild": false
+  },
+  {
+    "id": 69,
+    "name": "Animal_69",
+    "species": "Mammal",
+    "lifespan": 79,
+    "isWild": true
+  },
+  {
+    "id": 70,
+    "name": "Animal_70",
+    "species": "Reptile",
+    "lifespan": 41,
+    "isWild": true
+  },
+  {
+    "id": 71,
+    "name": "Animal_71",
+    "species": "Bird",
+    "lifespan": 56,
+    "isWild": true
+  },
+  {
+    "id": 72,
+    "name": "Animal_72",
+    "species": "Reptile",
+    "lifespan": 11,
+    "isWild": false
+  },
+  {
+    "id": 73,
+    "name": "Animal_73",
+    "species": "Bird",
+    "lifespan": 75,
+    "isWild": false
+  },
+  {
+    "id": 74,
+    "name": "Animal_74",
+    "species": "Fish",
+    "lifespan": 45,
+    "isWild": true
+  },
+  {
+    "id": 75,
+    "name": "Animal_75",
+    "species": "Fish",
+    "lifespan": 27,
+    "isWild": true
+  },
+  {
+    "id": 76,
+    "name": "Animal_76",
+    "species": "Fish",
+    "lifespan": 69,
+    "isWild": false
+  },
+  {
+    "id": 77,
+    "name": "Animal_77",
+    "species": "Bird",
+    "lifespan": 13,
+    "isWild": false
+  },
+  {
+    "id": 78,
+    "name": "Animal_78",
+    "species": "Bird",
+    "lifespan": 36,
+    "isWild": false
+  },
+  {
+    "id": 79,
+    "name": "Animal_79",
+    "species": "Reptile",
+    "lifespan": 61,
+    "isWild": true
+  },
+  {
+    "id": 80,
+    "name": "Animal_80",
+    "species": "Bird",
+    "lifespan": 50,
+    "isWild": true
+  },
+  {
+    "id": 81,
+    "name": "Animal_81",
+    "species": "Bird",
+    "lifespan": 28,
+    "isWild": true
+  },
+  {
+    "id": 82,
+    "name": "Animal_82",
+    "species": "Mammal",
+    "lifespan": 77,
+    "isWild": false
+  },
+  {
+    "id": 83,
+    "name": "Animal_83",
+    "species": "Mammal",
+    "lifespan": 61,
+    "isWild": true
+  },
+  {
+    "id": 84,
+    "name": "Animal_84",
+    "species": "Mammal",
+    "lifespan": 54,
+    "isWild": true
+  },
+  {
+    "id": 85,
+    "name": "Animal_85",
+    "species": "Reptile",
+    "lifespan": 31,
+    "isWild": false
+  },
+  {
+    "id": 86,
+    "name": "Animal_86",
+    "species": "Fish",
+    "lifespan": 35,
+    "isWild": false
+  },
+  {
+    "id": 87,
+    "name": "Animal_87",
+    "species": "Reptile",
+    "lifespan": 76,
+    "isWild": false
+  },
+  {
+    "id": 88,
+    "name": "Animal_88",
+    "species": "Fish",
+    "lifespan": 51,
+    "isWild": true
+  },
+  {
+    "id": 89,
+    "name": "Animal_89",
+    "species": "Reptile",
+    "lifespan": 66,
+    "isWild": false
+  },
+  {
+    "id": 90,
+    "name": "Animal_90",
+    "species": "Bird",
+    "lifespan": 8,
+    "isWild": false
+  },
+  {
+    "id": 91,
+    "name": "Animal_91",
+    "species": "Reptile",
+    "lifespan": 43,
+    "isWild": true
+  },
+  {
+    "id": 92,
+    "name": "Animal_92",
+    "species": "Fish",
+    "lifespan": 71,
+    "isWild": false
+  },
+  {
+    "id": 93,
+    "name": "Animal_93",
+    "species": "Bird",
+    "lifespan": 14,
+    "isWild": true
+  },
+  {
+    "id": 94,
+    "name": "Animal_94",
+    "species": "Fish",
+    "lifespan": 2,
+    "isWild": true
+  },
+  {
+    "id": 95,
+    "name": "Animal_95",
+    "species": "Fish",
+    "lifespan": 16,
+    "isWild": true
+  },
+  {
+    "id": 96,
+    "name": "Animal_96",
+    "species": "Reptile",
+    "lifespan": 66,
+    "isWild": false
+  },
+  {
+    "id": 97,
+    "name": "Animal_97",
+    "species": "Bird",
+    "lifespan": 7,
+    "isWild": true
+  },
+  {
+    "id": 98,
+    "name": "Animal_98",
+    "species": "Fish",
+    "lifespan": 31,
+    "isWild": false
+  },
+  {
+    "id": 99,
+    "name": "Animal_99",
+    "species": "Mammal",
+    "lifespan": 69,
+    "isWild": true
+  },
+  {
+    "id": 100,
+    "name": "Animal_100",
+    "species": "Bird",
+    "lifespan": 23,
+    "isWild": true
+  },
+  {
+    "id": 101,
+    "name": "Animal_101",
+    "species": "Fish",
+    "lifespan": 72,
+    "isWild": true
+  },
+  {
+    "id": 102,
+    "name": "Animal_102",
+    "species": "Mammal",
+    "lifespan": 74,
+    "isWild": true
+  },
+  {
+    "id": 103,
+    "name": "Animal_103",
+    "species": "Reptile",
+    "lifespan": 68,
+    "isWild": true
+  },
+  {
+    "id": 104,
+    "name": "Animal_104",
+    "species": "Bird",
+    "lifespan": 70,
+    "isWild": true
+  },
+  {
+    "id": 105,
+    "name": "Animal_105",
+    "species": "Reptile",
+    "lifespan": 49,
+    "isWild": false
+  },
+  {
+    "id": 106,
+    "name": "Animal_106",
+    "species": "Fish",
+    "lifespan": 36,
+    "isWild": false
+  },
+  {
+    "id": 107,
+    "name": "Animal_107",
+    "species": "Reptile",
+    "lifespan": 9,
+    "isWild": false
+  },
+  {
+    "id": 108,
+    "name": "Animal_108",
+    "species": "Bird",
+    "lifespan": 45,
+    "isWild": true
+  },
+  {
+    "id": 109,
+    "name": "Animal_109",
+    "species": "Fish",
+    "lifespan": 42,
+    "isWild": false
+  },
+  {
+    "id": 110,
+    "name": "Animal_110",
+    "species": "Reptile",
+    "lifespan": 25,
+    "isWild": true
+  },
+  {
+    "id": 111,
+    "name": "Animal_111",
+    "species": "Reptile",
+    "lifespan": 2,
+    "isWild": false
+  },
+  {
+    "id": 112,
+    "name": "Animal_112",
+    "species": "Bird",
+    "lifespan": 51,
+    "isWild": true
+  },
+  {
+    "id": 113,
+    "name": "Animal_113",
+    "species": "Bird",
+    "lifespan": 60,
+    "isWild": true
+  },
+  {
+    "id": 114,
+    "name": "Animal_114",
+    "species": "Fish",
+    "lifespan": 52,
+    "isWild": true
+  },
+  {
+    "id": 115,
+    "name": "Animal_115",
+    "species": "Fish",
+    "lifespan": 33,
+    "isWild": true
+  },
+  {
+    "id": 116,
+    "name": "Animal_116",
+    "species": "Fish",
+    "lifespan": 69,
+    "isWild": false
+  },
+  {
+    "id": 117,
+    "name": "Animal_117",
+    "species": "Bird",
+    "lifespan": 6,
+    "isWild": true
+  },
+  {
+    "id": 118,
+    "name": "Animal_118",
+    "species": "Reptile",
+    "lifespan": 17,
+    "isWild": false
+  },
+  {
+    "id": 119,
+    "name": "Animal_119",
+    "species": "Bird",
+    "lifespan": 21,
+    "isWild": false
+  },
+  {
+    "id": 120,
+    "name": "Animal_120",
+    "species": "Reptile",
+    "lifespan": 21,
+    "isWild": true
+  },
+  {
+    "id": 121,
+    "name": "Animal_121",
+    "species": "Mammal",
+    "lifespan": 43,
+    "isWild": false
+  },
+  {
+    "id": 122,
+    "name": "Animal_122",
+    "species": "Fish",
+    "lifespan": 74,
+    "isWild": true
+  },
+  {
+    "id": 123,
+    "name": "Animal_123",
+    "species": "Bird",
+    "lifespan": 28,
+    "isWild": false
+  },
+  {
+    "id": 124,
+    "name": "Animal_124",
+    "species": "Reptile",
+    "lifespan": 78,
+    "isWild": true
+  },
+  {
+    "id": 125,
+    "name": "Animal_125",
+    "species": "Fish",
+    "lifespan": 11,
+    "isWild": true
+  },
+  {
+    "id": 126,
+    "name": "Animal_126",
+    "species": "Bird",
+    "lifespan": 43,
+    "isWild": false
+  },
+  {
+    "id": 127,
+    "name": "Animal_127",
+    "species": "Bird",
+    "lifespan": 47,
+    "isWild": true
+  },
+  {
+    "id": 128,
+    "name": "Animal_128",
+    "species": "Fish",
+    "lifespan": 73,
+    "isWild": false
+  },
+  {
+    "id": 129,
+    "name": "Animal_129",
+    "species": "Reptile",
+    "lifespan": 59,
+    "isWild": true
+  },
+  {
+    "id": 130,
+    "name": "Animal_130",
+    "species": "Fish",
+    "lifespan": 53,
+    "isWild": true
+  },
+  {
+    "id": 131,
+    "name": "Animal_131",
+    "species": "Reptile",
+    "lifespan": 3,
+    "isWild": true
+  },
+  {
+    "id": 132,
+    "name": "Animal_132",
+    "species": "Reptile",
+    "lifespan": 75,
+    "isWild": false
+  },
+  {
+    "id": 133,
+    "name": "Animal_133",
+    "species": "Mammal",
+    "lifespan": 22,
+    "isWild": false
+  },
+  {
+    "id": 134,
+    "name": "Animal_134",
+    "species": "Reptile",
+    "lifespan": 19,
+    "isWild": true
+  },
+  {
+    "id": 135,
+    "name": "Animal_135",
+    "species": "Reptile",
+    "lifespan": 30,
+    "isWild": false
+  },
+  {
+    "id": 136,
+    "name": "Animal_136",
+    "species": "Bird",
+    "lifespan": 15,
+    "isWild": true
+  },
+  {
+    "id": 137,
+    "name": "Animal_137",
+    "species": "Fish",
+    "lifespan": 27,
+    "isWild": false
+  },
+  {
+    "id": 138,
+    "name": "Animal_138",
+    "species": "Bird",
+    "lifespan": 13,
+    "isWild": true
+  },
+  {
+    "id": 139,
+    "name": "Animal_139",
+    "species": "Reptile",
+    "lifespan": 43,
+    "isWild": true
+  },
+  {
+    "id": 140,
+    "name": "Animal_140",
+    "species": "Reptile",
+    "lifespan": 80,
+    "isWild": true
+  },
+  {
+    "id": 141,
+    "name": "Animal_141",
+    "species": "Reptile",
+    "lifespan": 37,
+    "isWild": true
+  },
+  {
+    "id": 142,
+    "name": "Animal_142",
+    "species": "Mammal",
+    "lifespan": 25,
+    "isWild": true
+  },
+  {
+    "id": 143,
+    "name": "Animal_143",
+    "species": "Fish",
+    "lifespan": 39,
+    "isWild": false
+  },
+  {
+    "id": 144,
+    "name": "Animal_144",
+    "species": "Fish",
+    "lifespan": 33,
+    "isWild": false
+  },
+  {
+    "id": 145,
+    "name": "Animal_145",
+    "species": "Fish",
+    "lifespan": 29,
+    "isWild": false
+  },
+  {
+    "id": 146,
+    "name": "Animal_146",
+    "species": "Bird",
+    "lifespan": 33,
+    "isWild": false
+  },
+  {
+    "id": 147,
+    "name": "Animal_147",
+    "species": "Mammal",
+    "lifespan": 67,
+    "isWild": false
+  },
+  {
+    "id": 148,
+    "name": "Animal_148",
+    "species": "Fish",
+    "lifespan": 8,
+    "isWild": true
+  },
+  {
+    "id": 149,
+    "name": "Animal_149",
+    "species": "Mammal",
+    "lifespan": 17,
+    "isWild": false
+  },
+  {
+    "id": 150,
+    "name": "Animal_150",
+    "species": "Fish",
+    "lifespan": 2,
+    "isWild": false
+  },
+  {
+    "id": 151,
+    "name": "Animal_151",
+    "species": "Reptile",
+    "lifespan": 25,
+    "isWild": false
+  },
+  {
+    "id": 152,
+    "name": "Animal_152",
+    "species": "Bird",
+    "lifespan": 1,
+    "isWild": true
+  },
+  {
+    "id": 153,
+    "name": "Animal_153",
+    "species": "Bird",
+    "lifespan": 66,
+    "isWild": true
+  },
+  {
+    "id": 154,
+    "name": "Animal_154",
+    "species": "Fish",
+    "lifespan": 9,
+    "isWild": true
+  },
+  {
+    "id": 155,
+    "name": "Animal_155",
+    "species": "Reptile",
+    "lifespan": 17,
+    "isWild": true
+  },
+  {
+    "id": 156,
+    "name": "Animal_156",
+    "species": "Fish",
+    "lifespan": 64,
+    "isWild": false
+  },
+  {
+    "id": 157,
+    "name": "Animal_157",
+    "species": "Mammal",
+    "lifespan": 28,
+    "isWild": true
+  },
+  {
+    "id": 158,
+    "name": "Animal_158",
+    "species": "Bird",
+    "lifespan": 23,
+    "isWild": true
+  },
+  {
+    "id": 159,
+    "name": "Animal_159",
+    "species": "Mammal",
+    "lifespan": 73,
+    "isWild": false
+  },
+  {
+    "id": 160,
+    "name": "Animal_160",
+    "species": "Mammal",
+    "lifespan": 32,
+    "isWild": false
+  },
+  {
+    "id": 161,
+    "name": "Animal_161",
+    "species": "Bird",
+    "lifespan": 35,
+    "isWild": true
+  },
+  {
+    "id": 162,
+    "name": "Animal_162",
+    "species": "Fish",
+    "lifespan": 42,
+    "isWild": true
+  },
+  {
+    "id": 163,
+    "name": "Animal_163",
+    "species": "Fish",
+    "lifespan": 26,
+    "isWild": true
+  },
+  {
+    "id": 164,
+    "name": "Animal_164",
+    "species": "Reptile",
+    "lifespan": 51,
+    "isWild": true
+  },
+  {
+    "id": 165,
+    "name": "Animal_165",
+    "species": "Mammal",
+    "lifespan": 79,
+    "isWild": true
+  },
+  {
+    "id": 166,
+    "name": "Animal_166",
+    "species": "Mammal",
+    "lifespan": 44,
+    "isWild": true
+  },
+  {
+    "id": 167,
+    "name": "Animal_167",
+    "species": "Bird",
+    "lifespan": 61,
+    "isWild": false
+  },
+  {
+    "id": 168,
+    "name": "Animal_168",
+    "species": "Mammal",
+    "lifespan": 10,
+    "isWild": true
+  },
+  {
+    "id": 169,
+    "name": "Animal_169",
+    "species": "Mammal",
+    "lifespan": 23,
+    "isWild": true
+  },
+  {
+    "id": 170,
+    "name": "Animal_170",
+    "species": "Reptile",
+    "lifespan": 52,
+    "isWild": true
+  },
+  {
+    "id": 171,
+    "name": "Animal_171",
+    "species": "Mammal",
+    "lifespan": 21,
+    "isWild": false
+  },
+  {
+    "id": 172,
+    "name": "Animal_172",
+    "species": "Reptile",
+    "lifespan": 6,
+    "isWild": false
+  },
+  {
+    "id": 173,
+    "name": "Animal_173",
+    "species": "Mammal",
+    "lifespan": 66,
+    "isWild": true
+  },
+  {
+    "id": 174,
+    "name": "Animal_174",
+    "species": "Reptile",
+    "lifespan": 52,
+    "isWild": true
+  },
+  {
+    "id": 175,
+    "name": "Animal_175",
+    "species": "Reptile",
+    "lifespan": 41,
+    "isWild": true
+  },
+  {
+    "id": 176,
+    "name": "Animal_176",
+    "species": "Reptile",
+    "lifespan": 20,
+    "isWild": false
+  },
+  {
+    "id": 177,
+    "name": "Animal_177",
+    "species": "Mammal",
+    "lifespan": 30,
+    "isWild": true
+  },
+  {
+    "id": 178,
+    "name": "Animal_178",
+    "species": "Mammal",
+    "lifespan": 73,
+    "isWild": false
+  },
+  {
+    "id": 179,
+    "name": "Animal_179",
+    "species": "Bird",
+    "lifespan": 9,
+    "isWild": false
+  },
+  {
+    "id": 180,
+    "name": "Animal_180",
+    "species": "Mammal",
+    "lifespan": 67,
+    "isWild": false
+  },
+  {
+    "id": 181,
+    "name": "Animal_181",
+    "species": "Fish",
+    "lifespan": 26,
+    "isWild": true
+  },
+  {
+    "id": 182,
+    "name": "Animal_182",
+    "species": "Mammal",
+    "lifespan": 34,
+    "isWild": true
+  },
+  {
+    "id": 183,
+    "name": "Animal_183",
+    "species": "Bird",
+    "lifespan": 14,
+    "isWild": false
+  },
+  {
+    "id": 184,
+    "name": "Animal_184",
+    "species": "Reptile",
+    "lifespan": 71,
+    "isWild": false
+  },
+  {
+    "id": 185,
+    "name": "Animal_185",
+    "species": "Mammal",
+    "lifespan": 26,
+    "isWild": false
+  },
+  {
+    "id": 186,
+    "name": "Animal_186",
+    "species": "Bird",
+    "lifespan": 76,
+    "isWild": false
+  },
+  {
+    "id": 187,
+    "name": "Animal_187",
+    "species": "Mammal",
+    "lifespan": 36,
+    "isWild": true
+  },
+  {
+    "id": 188,
+    "name": "Animal_188",
+    "species": "Fish",
+    "lifespan": 33,
+    "isWild": false
+  },
+  {
+    "id": 189,
+    "name": "Animal_189",
+    "species": "Reptile",
+    "lifespan": 23,
+    "isWild": true
+  },
+  {
+    "id": 190,
+    "name": "Animal_190",
+    "species": "Fish",
+    "lifespan": 34,
+    "isWild": false
+  },
+  {
+    "id": 191,
+    "name": "Animal_191",
+    "species": "Reptile",
+    "lifespan": 8,
+    "isWild": true
+  },
+  {
+    "id": 192,
+    "name": "Animal_192",
+    "species": "Reptile",
+    "lifespan": 26,
+    "isWild": false
+  },
+  {
+    "id": 193,
+    "name": "Animal_193",
+    "species": "Mammal",
+    "lifespan": 26,
+    "isWild": false
+  },
+  {
+    "id": 194,
+    "name": "Animal_194",
+    "species": "Bird",
+    "lifespan": 65,
+    "isWild": false
+  },
+  {
+    "id": 195,
+    "name": "Animal_195",
+    "species": "Bird",
+    "lifespan": 9,
+    "isWild": false
+  },
+  {
+    "id": 196,
+    "name": "Animal_196",
+    "species": "Mammal",
+    "lifespan": 78,
+    "isWild": false
+  },
+  {
+    "id": 197,
+    "name": "Animal_197",
+    "species": "Fish",
+    "lifespan": 10,
+    "isWild": true
+  },
+  {
+    "id": 198,
+    "name": "Animal_198",
+    "species": "Mammal",
+    "lifespan": 39,
+    "isWild": false
+  },
+  {
+    "id": 199,
+    "name": "Animal_199",
+    "species": "Reptile",
+    "lifespan": 74,
+    "isWild": true
+  },
+  {
+    "id": 200,
+    "name": "Animal_200",
+    "species": "Mammal",
+    "lifespan": 32,
+    "isWild": true
+  },
+  {
+    "id": 201,
+    "name": "Animal_201",
+    "species": "Bird",
+    "lifespan": 26,
+    "isWild": true
+  },
+  {
+    "id": 202,
+    "name": "Animal_202",
+    "species": "Bird",
+    "lifespan": 51,
+    "isWild": true
+  },
+  {
+    "id": 203,
+    "name": "Animal_203",
+    "species": "Mammal",
+    "lifespan": 55,
+    "isWild": false
+  },
+  {
+    "id": 204,
+    "name": "Animal_204",
+    "species": "Fish",
+    "lifespan": 5,
+    "isWild": true
+  },
+  {
+    "id": 205,
+    "name": "Animal_205",
+    "species": "Reptile",
+    "lifespan": 58,
+    "isWild": true
+  },
+  {
+    "id": 206,
+    "name": "Animal_206",
+    "species": "Bird",
+    "lifespan": 59,
+    "isWild": false
+  },
+  {
+    "id": 207,
+    "name": "Animal_207",
+    "species": "Fish",
+    "lifespan": 72,
+    "isWild": false
+  },
+  {
+    "id": 208,
+    "name": "Animal_208",
+    "species": "Mammal",
+    "lifespan": 32,
+    "isWild": true
+  },
+  {
+    "id": 209,
+    "name": "Animal_209",
+    "species": "Fish",
+    "lifespan": 76,
+    "isWild": true
+  },
+  {
+    "id": 210,
+    "name": "Animal_210",
+    "species": "Reptile",
+    "lifespan": 58,
+    "isWild": true
+  },
+  {
+    "id": 211,
+    "name": "Animal_211",
+    "species": "Fish",
+    "lifespan": 27,
+    "isWild": false
+  },
+  {
+    "id": 212,
+    "name": "Animal_212",
+    "species": "Reptile",
+    "lifespan": 3,
+    "isWild": true
+  },
+  {
+    "id": 213,
+    "name": "Animal_213",
+    "species": "Mammal",
+    "lifespan": 3,
+    "isWild": false
+  },
+  {
+    "id": 214,
+    "name": "Animal_214",
+    "species": "Reptile",
+    "lifespan": 20,
+    "isWild": true
+  },
+  {
+    "id": 215,
+    "name": "Animal_215",
+    "species": "Reptile",
+    "lifespan": 34,
+    "isWild": true
+  },
+  {
+    "id": 216,
+    "name": "Animal_216",
+    "species": "Fish",
+    "lifespan": 31,
+    "isWild": true
+  },
+  {
+    "id": 217,
+    "name": "Animal_217",
+    "species": "Reptile",
+    "lifespan": 70,
+    "isWild": false
+  },
+  {
+    "id": 218,
+    "name": "Animal_218",
+    "species": "Fish",
+    "lifespan": 6,
+    "isWild": false
+  },
+  {
+    "id": 219,
+    "name": "Animal_219",
+    "species": "Bird",
+    "lifespan": 60,
+    "isWild": false
+  },
+  {
+    "id": 220,
+    "name": "Animal_220",
+    "species": "Reptile",
+    "lifespan": 8,
+    "isWild": false
+  },
+  {
+    "id": 221,
+    "name": "Animal_221",
+    "species": "Reptile",
+    "lifespan": 34,
+    "isWild": false
+  },
+  {
+    "id": 222,
+    "name": "Animal_222",
+    "species": "Mammal",
+    "lifespan": 22,
+    "isWild": false
+  },
+  {
+    "id": 223,
+    "name": "Animal_223",
+    "species": "Fish",
+    "lifespan": 48,
+    "isWild": true
+  },
+  {
+    "id": 224,
+    "name": "Animal_224",
+    "species": "Bird",
+    "lifespan": 28,
+    "isWild": true
+  }
+]
