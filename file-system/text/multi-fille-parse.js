@@ -1,4 +1,4 @@
-import { readdir, readFile, writeFile } from 'fs/promises';
+import { readdir, readFile, stat } from 'fs/promises';
 import path from 'path';
 
 
@@ -21,17 +21,46 @@ const multiFileReader = async () => {
 
         const fileReadPromises = files.map(async (file) => {
             const filePath = path.join(dirPath, file);
-            const fileContent = await readFile(filePath, 'utf-8');
-            return { fileName: file, content: JSON.parse(fileContent) }
+            try {
+                const fileStats = await stat(filePath);
+                // console.log('fileStats : ', fileStats);
+                if (!fileStats.isFile()) {
+                    return { status: 'skipped', fileName: file, reason: 'Not a file' }
+                }
+                // this is is not that necessary but only for here only for the json files.
+                if (!file.endsWith('.json')) {
+                    return { status: 'skipped', fileName: file, reason: 'Not a Json File' };
+                }
+                const fileContent = await readFile(filePath, 'utf-8');
+                return { status: 'success', fileName: file, content: JSON.parse(fileContent) }
+            } catch (error) {
+                return { status: 'failed', fileName: file, reason: error.message }
+            }
         });
 
-        const allFileData = await Promise.all(fileReadPromises);
-        console.log('All files read successfully!')
-        allFileData.forEach(({ fileName, content }) => {
-            console.log(`${fileName} : `, Object.keys(content).length, 'items')
-        });
+        const resultWrapper = await Promise.allSettled(fileReadPromises);
+        const allResults = resultWrapper.map(r => r.value)
+        // console.log('result >> ', allResults);
+        const successFulFiles = allResults.filter(result => result.status == 'success');
+        const skippedFiles = allResults.filter(result => result.status == 'skipped');
+        const failedFiles = allResults.filter(result => result.status == 'failed');
 
-        return allFileData;
+        console.log(`successFulFiles ${successFulFiles.length} readed successfully!`);
+        console.log(`skippedFiles ${skippedFiles.length} Skipped!`);
+        console.log(`failedFiles ${failedFiles.length} failed!`);
+
+        if (successFulFiles.length > 0) {
+            successFulFiles.forEach(({ fileName, content }) => {
+                console.log(`${fileName} : `, Object.keys(content).length, 'items')
+            });
+        };
+        if (failedFiles.length > 0) {
+            console.log(`Failed files : ${failedFiles.length}`);
+            failedFiles.forEach(({ fileName, content }) => {
+                console.log(`${fileName} : `, Object.keys(content).length, 'items')
+            });
+        }
+        return successFulFiles;
 
     } catch (error) {
         console.log('Error in reading files!', error.message)
