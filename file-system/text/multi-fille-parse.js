@@ -39,7 +39,7 @@ const multiFileReader = async () => {
         });
 
         const resultWrapper = await Promise.allSettled(fileReadPromises);
-        const allResults = resultWrapper.map(r => r.value)
+        const allResults = resultWrapper.map(r => r.status === 'fulfilled' ? r.value : { status: 'failed', fileName: 'unkonwn', reason: r.reason })
         // console.log('result >> ', allResults);
         const successFulFiles = allResults.filter(result => result.status == 'success');
         const skippedFiles = allResults.filter(result => result.status == 'skipped');
