@@ -1,0 +1,26 @@
+animalInfo.json
+<Buffer 5b 0a 20 20 7b 0a 20 20>
+black-hole.jpeg
+<Buffer ff d8 ff e0 00 10 4a 46>
+carInfo.json
+<Buffer 5b 0a 20 20 7b 0a 20 20>
+collageInfo.json
+<Buffer 5b 0a 20 20 7b 0a 20 20>
+climateInfo.json
+<Buffer 5b 0a 20 20 7b 0a 20 20>
+download.jpeg
+<Buffer ff d8 ff e0 00 10 4a 46>
+flight.csv
+<Buffer 5b 0a 20 20 7b 0a 20 20>
+download2.jpeg
+<Buffer ff d8 ff e0 00 10 4a 46>
+travel-detail.txt
+<Buffer 5b 0a 20 20 7b 0a 20 20>
+userInfo.json
+<Buffer 5b 0a 20 20 7b 0a 20 20>
+car.png
+<Buffer 89 50 4e 47 0d 0a 1a 0a>
+sea.mp4
+<Buffer 00 00 00 20 66 74 79 70>
+boy.gif
+<Buffer 47 49 46 38 39 61 68 01>
