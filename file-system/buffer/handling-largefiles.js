@@ -1,7 +1,5 @@
 import { createReadStream, createWriteStream, statSync } from 'fs';
 import path from 'path';
-
-
 const copyWithProgress = (fileName) => {
     return new Promise((resolve, reject) => {
         const srcPath = path.join('./raw-files', fileName);
@@ -69,8 +67,8 @@ const copyWithProgress = (fileName) => {
 const runTask = async () => {
     try {
         console.log('---- Job Started ----');
-        // await copyWithProgress('sea.mp4');
         await copyWithProgress('test-data.mkv');
+        // await copyWithProgress('sea.mp4');
         console.log('---- Job Finished ----');
     } catch (error) {
         console.log('Task Failed : ', error.message)
